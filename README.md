@@ -32,7 +32,7 @@ No phone required to check an app. No radio calls. The information is spatially 
 
 [![Watch the demo](https://img.youtube.com/vi/-mA90P9B7pY/0.jpg)](https://youtube.com/shorts/-mA90P9B7pY)
 
-> 📸 *Add photos — see `/assets/photos/`*
+![Prototype](assets/photos/Prototype.png)
 
 ---
 
