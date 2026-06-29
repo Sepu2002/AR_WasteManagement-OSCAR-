@@ -144,6 +144,6 @@ Print an **AprilTag 36h11, ID 1** marker and attach it to the front face of the 
 
 ## Authors
 
-**Santiago Sepúlveda Landeros** · [GitHub](https://github.com/Sepu2002) · [LinkedIn](https://linkedin.com/in/[yourhandle])
+**Santiago Sepúlveda Landeros** · [GitHub](https://github.com/Sepu2002) · [LinkedIn](https://www.linkedin.com/in/santiago-sepulvedal/)
 
 *Mechatronics Engineering — Universidad Panamericana*
